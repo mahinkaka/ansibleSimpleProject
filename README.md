@@ -17,7 +17,7 @@ Replace <your-vm-ip> with the IP address of your VM and <your-ssh-user> with the
 
 Playbook Description
 
-The Ansible playbook deploy_echo_service.yml will perform the following tasks:
+The Ansible playbook echo_service.yml will perform the following tasks:
 
     Update the APT package repository cache.
     Install Python3, pip, and venv.
